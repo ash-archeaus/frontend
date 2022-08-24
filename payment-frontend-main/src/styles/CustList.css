@@ -1,0 +1,60 @@
+
+
+.forTable{
+    margin-top: 25px;
+}
+
+#ctBtn{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    
+}
+.c-t-s{
+    margin-top: 4px;
+}
+.cust-table-style{
+    border-collapse: collapse;
+    /* margin: 25px 0; */
+    margin: auto;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 650px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    
+}
+
+
+.cust-table-style thead tr{
+    background-color: grey;
+    color: #ffffff;
+    text-align: center;
+}
+
+.cust-table-style th,
+.cust-table-style td {
+    padding: 12px 15px;
+}
+
+#customerBtn{
+    border: none;
+    background-color: Transparent;
+    
+}
+
+#myInput{
+    /* background-image: url('C:\Users\Administrator\Desktop\React-8\bank-project\src\search.png'); */
+    background-position: 2px 4px;
+    background-repeat: no-repeat;
+    background-size: 25px;
+
+    font-size: 16px;
+    padding: 6px 20px 6px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 8px;
+    
+}
+
+#btnBtn{
+    padding: 6px 20px 6px 40px;
+}
